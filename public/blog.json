@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover-img": "https://i.ibb.co/2cR3VSh/21703793-6503402.jpg",
+      "author-name": "John Doe",
+      "author-img": "https://i.ibb.co/MNy1Gf5/side-view-business-man-writing-agenda.jpg",
+      "post-date": "2023-09-13",
+      "read-time": 10,
+      "hashtag": ["fiction", "writing", "books"]
+    },
+    {
+      "id": 2,
+      "cover-img": "https://i.ibb.co/mD7bxRc/22879449-6682055.jpg",
+      "author-name": "Jane Smith",
+      "author-img": "https://example.com/author2.jpg",
+      "post-date": "2023-09-14",
+      "read-time": 8,
+      "hashtag": ["technology", "innovation", "future"]
+    },
+    {
+      "id": 3,
+      "cover-img": "https://i.ibb.co/DVbb6FG/22603017-6676100.jpg",
+      "author-name": "Alice Johnson",
+      "author-img": "https://i.ibb.co/MsvgSmW/trashed-1688916826-IMG20230609213339.jpg",
+      "post-date": "2023-09-15",
+      "read-time": 15,
+      "hashtag": ["travel", "adventure", "explore"]
+    },
+    {
+      "id": 4,
+      "cover-img": "https://i.ibb.co/tCqGV6z/22879170-6618553.jpg",
+      "author-name": "Bob Anderson",
+      "author-img": "https://i.ibb.co/vctp9vS/IMG-20230428-110701.jpg",
+      "post-date": "2023-09-16",
+      "read-time": 7,
+      "hashtag": ["food", "recipes", "cooking"]
+    },
+    {
+      "id": 5,
+      "cover-img": "https://i.ibb.co/6vX9n3V/blogging-gone-viral-camera-concept.jpg",
+      "author-name": "Eva Williams",
+      "author-img": "https://i.ibb.co/hBX9mJK/trashed-1689180430-DSC0686.jpg",
+      "post-date": "2023-09-17",
+      "read-time": 12,
+      "hashtag": ["health", "wellness", "fitness"]
+    }
+  ]
+  
